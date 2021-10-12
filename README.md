@@ -1,12 +1,10 @@
-⁔
-×  ×  ×  ×  ×  ×  ×  ×  
-- JavaScript Student 🧑‍💻. 
+## We will have to choose between what is right and what is easy.
 
-- 16y ⏰.
 
-- Mixed Bot Creator.🤖
-×  ×  ×  ×  ×  ×  ×  ×  
-‿
+- 🧑‍💻 JavaScript Student and Developer
+- 📖 Trying to be a Full-Stack Dev.
+- 
+
 
 ![alt text](https://uploads.spiritfanfiction.com/fanfics/capitulos/202108/imagine-mikey--tokyo-revengers-22843474-180820210138.jpg)
 
