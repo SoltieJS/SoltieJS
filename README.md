@@ -10,7 +10,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-pic" height="400" style="border-radius:50px;" src="https://media.discordapp.net/attachments/895015811813621770/897322068654297118/251098_beautiful-anime-coder-hd-wallpapers_2560x1598_h.jpg?width=1074&height=671">
+  <img align="center" alt="Soltie" height="400" style="border-radius:50px;" src="https://media.discordapp.net/attachments/895015811813621770/897322068654297118/251098_beautiful-anime-coder-hd-wallpapers_2560x1598_h.jpg?width=1074&height=671">
 </div>
 
 
